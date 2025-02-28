@@ -7,6 +7,9 @@ Notes for reviewing the finals. If there’s anything important or missing, emai
 	- Taken last quarter when I took the class.
 - Not complete.
 - I’ll be updating them actively.
-- Most of these are basically repeating slides.
+	- Do not have the earlier contents because… someone did not take notes for them.
+- ==**Most of these are basically repeating slides**==.
 	- Though they’re useful to see how things connect.
 - Good luck and have fun.
+
+*There are some formatting issues.* 
