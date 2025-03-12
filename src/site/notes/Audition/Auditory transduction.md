@@ -8,7 +8,7 @@
 - Movement of *inner* hair cells **stereocilia** in one direction which opens up ion channels via tip links.
 	- When the tip links are open, they allow potassium ions to rush in.
 	- This process releases neurotransmitters.
-	- Neurotransmitters bind to the [[Audition/Auditory nerve fiber\|Auditory nerve fiber]], causing it to depolarize.
+	- Neurotransmitters bind to the [[Audition/Auditory nerve fiber\|auditory nerve fiber]], causing it to depolarize.
 	- On average, each inner hair cell sends signals to 10 spiral ganglion cells (divergent connection).
 - Movement in the other direction closes the channels.
 - Outer hair cells **amplifies** this activity.

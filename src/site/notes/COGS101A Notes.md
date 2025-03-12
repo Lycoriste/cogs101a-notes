@@ -8,8 +8,9 @@ Notes for reviewing the finals. If there’s anything important or missing, emai
 - Not complete.
 - I’ll be updating them actively.
 	- Do not have the earlier contents because… someone did not take notes for them.
-- ==**Most of these are basically repeating slides**==.
+- ==**Most of these are basically repeating the slides**==.
 	- Though they’re useful to see how things connect.
 - Good luck and have fun.
 
-*There are some formatting issues.* 
+Last updated : 3/11/2025
+- Sorry, I was really busy :)

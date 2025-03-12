@@ -4,7 +4,7 @@
 
 ### **Terminology/Background**
 ---
-**Monaural cues:** an auditory cue that allows for [[Audition/Auditory Localization\|Auditory Localization]].
+**Monaural cues:** an auditory cue that allows for [[Audition/Auditory Localization\|auditory localization]].
 
 The pinna and head affect the intensities of frequencies.
 
